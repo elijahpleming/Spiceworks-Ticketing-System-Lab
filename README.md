@@ -31,8 +31,8 @@ This lab simulates real help desk workflows using Spiceworks, a free IT ticketin
 - Entered the user's issue description, availability window, and office location
 - Set an appropriate priority level based on the impact to the user
 - Assigned the ticket for follow-up
-Creating monitor not working ticket.png
-
+  
+![Creating monitor ticket in Spiceworks](./Creating_monitor_not_working_ticket.png)
 ---
 
 ## Part 2 — Resolving and Closing a Ticket
@@ -64,7 +64,7 @@ Creating_monitor_not_working_ticket.png
 
 **Elijah Pleming** — *48s ago*
 > Changed status: **Open → Closed**
-
+![Writing resolution to WiFi ticket](./Writing_resolution_to_wifi_ticket.png)
 ---
 
 **Key Takeaways:**
@@ -86,6 +86,8 @@ Creating_monitor_not_working_ticket.png
 **User's Request:**
 > "Could you please give me access to view the financial database."
 
+![Finance database ticket creation](./finacedatabase_ticket.png)
+
 **Escalation Details:**
 
 | Field | Info |
@@ -103,7 +105,7 @@ Creating_monitor_not_working_ticket.png
 
 **Key Takeaway:**
 Knowing your limits is a core help desk skill. Escalating correctly — to the right team, with the right information — keeps issues moving and prevents delays for the user.
-
+![Escalated to Bishop Data](./escalatetobishop.png)
 ---
 
 ## Skills Demonstrated
