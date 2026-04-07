@@ -31,6 +31,7 @@ This lab simulates real help desk workflows using Spiceworks, a free IT ticketin
 - Entered the user's issue description, availability window, and office location
 - Set an appropriate priority level based on the impact to the user
 - Assigned the ticket for follow-up
+Creating monitor not working ticket.png
 
 ---
 
