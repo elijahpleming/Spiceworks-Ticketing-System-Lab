@@ -47,6 +47,7 @@ This lab simulates real help desk workflows using Spiceworks, a free IT ticketin
 4. Updated ticket notes with full documentation
 5. Closed the ticket with the appropriate resolution code
 
+Creating_monitor_not_working_ticket.png
 ---
 
 **Ticket Conversation Log:**
