@@ -32,7 +32,7 @@ This lab simulates real help desk workflows using Spiceworks, a free IT ticketin
 - Set an appropriate priority level based on the impact to the user
 - Assigned the ticket for follow-up
   
-![Creating monitor ticket in Spiceworks](./Creating_monitor_not_working_ticket.png)
+![Creating monitor ticket in Spiceworks](./Creating%20monitor%20not%20working%20ticket.png)
 ---
 
 ## Part 2 — Resolving and Closing a Ticket
@@ -64,7 +64,7 @@ This lab simulates real help desk workflows using Spiceworks, a free IT ticketin
 **Elijah Pleming** — *48s ago*
 > Changed status: **Open → Closed**
 
-![Writing resolution to WiFi ticket](./Writing_resolution_to_wifi_ticket.png)
+![Writing resolution to WiFi ticket](./Writing%20resolution%20to%20wifi%20ticket.png)
 ---
 
 **Key Takeaways:**
@@ -86,7 +86,7 @@ This lab simulates real help desk workflows using Spiceworks, a free IT ticketin
 **User's Request:**
 > "Could you please give me access to view the financial database."
 
-![Finance database ticket creation](./finacedatabase_ticket.png)
+![Finance database ticket creation](./finacedatabase%20ticket.png)
 
 **Escalation Details:**
 
