@@ -48,7 +48,6 @@ This lab simulates real help desk workflows using Spiceworks, a free IT ticketin
 4. Updated ticket notes with full documentation
 5. Closed the ticket with the appropriate resolution code
 
-Creating_monitor_not_working_ticket.png
 ---
 
 **Ticket Conversation Log:**
@@ -64,6 +63,7 @@ Creating_monitor_not_working_ticket.png
 
 **Elijah Pleming** — *48s ago*
 > Changed status: **Open → Closed**
+
 ![Writing resolution to WiFi ticket](./Writing_resolution_to_wifi_ticket.png)
 ---
 
@@ -105,6 +105,7 @@ Creating_monitor_not_working_ticket.png
 
 **Key Takeaway:**
 Knowing your limits is a core help desk skill. Escalating correctly — to the right team, with the right information — keeps issues moving and prevents delays for the user.
+
 ![Escalated to Bishop Data](./escalatetobishop.png)
 ---
 
