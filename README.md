@@ -6,7 +6,7 @@
 
 ## Overview
 
-This lab simulates real help desk workflows using Spiceworks, a free IT ticketing platform used by IT support teams to track, manage, and resolve user issues. The lab covers the full ticket lifecycle — from creation to resolution — as well as escalation procedures.
+This lab simulates real help desk workflows using Spiceworks, a free IT ticketing platform used by IT support teams to track, manage, and resolve user issues. The lab covers the full ticket lifecycle, from creation to resolution, as well as escalation procedures.
 
 ---
 
